@@ -127,7 +127,7 @@
 14-16周 决赛现场答辩
 17周左右 公布获奖名单
 
-# 3.参考资料
+# 3.Reference
 
 ## 各大AI公司research官网
 
@@ -151,47 +151,25 @@ Amazon		https://www.amazon.science/
 
 ## 课程平台
 
-n MIT 人工智能学习资源网站
+MIT 人工智能学习资源网站 https://aieducation.mit.edu/
 
-https://aieducation.mit.edu/
+斯坦福大学 机器学习课程 https://see.stanford.edu/Course/CS229
 
-n 斯坦福大学 机器学习课程
-
-https://see.stanford.edu/Course/CS229
-
-n 哈佛大学 机器学习课程 从数据收集到数据分析的整个流程
-
-https://cs109.github.io/2015/
-
-https://cs109.github.io/2015/pages/videos.html
-
-https://github.com/cs109/content
+哈佛大学 机器学习课程 从数据收集到数据分析的整个流程 https://cs109.github.io/2015/  https://cs109.github.io/2015/pages/videos.html  https://github.com/cs109/content
 
 ## 论文阅读
 
-免费开放的论文/代码整理，根据细分领域的指标对论文进行了整理和排序
+免费开放的论文/代码整理，根据细分领域的指标对论文进行了整理和排序 https://paperswithcode.com/sota
 
-https://paperswithcode.com/sota
+备用AI文献查阅引擎 https://www.semanticscholar.org/
 
-备用AI文献查阅引擎
+如果你想了解该领域厉害的前辈或特定的学者 https://www.aminer.cn/  [全球人工智能和机器学习重要会议](#rd)
 
-https://www.semanticscholar.org/
-
-如果你想了解该领域厉害的前辈或特定的学者
-
-https://www.aminer.cn/
-
- [全球人工智能和机器学习重要会议](#rd)
-
-中国计算机学会推荐国际学术刊物 (人工智能)
-
-https://www.ccf.org.cn/Academic_Evaluation/AI/
+中国计算机学会推荐国际学术刊物 (人工智能) https://www.ccf.org.cn/Academic_Evaluation/AI/
 
 ## 学习路径
 
-如何自学人工智能
-
-https://www.zhihu.com/question/21277368/answer/550671387
+如何自学人工智能 https://www.zhihu.com/question/21277368/answer/550671387
 
 #  4.个人成果
 
